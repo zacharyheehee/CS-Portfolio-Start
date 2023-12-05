@@ -1,0 +1,23 @@
+body {
+  color: black;
+  background-color: white;
+  top-margin: 25 px;
+  text-align: center;
+}
+
+/* never clicked (visited) link */
+a {
+  color: black  !important;
+}
+
+/* clicked (visited) link */
+a.visited {
+  color: grey;
+}
+
+/* moused over link */
+a.hover {
+  color: blue;
+}
+
+
