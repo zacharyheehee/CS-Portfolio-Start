@@ -9,5 +9,5 @@ Included in this portfolio are the following projects:
 1. Quote Maker App
 1. 
 
-Rename your repo to your firstname-apcsp-portfolio (delete this comment).
+Rename your repo to your firstname-apcsp-portfolio (delete this comment).  
 Remember when you update your pages in Codespace you must commit and sync changes.
